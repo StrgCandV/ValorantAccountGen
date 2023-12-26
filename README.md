@@ -1,0 +1,2 @@
+# ValorantAccountGen
+A ValorantAccountGenerator
